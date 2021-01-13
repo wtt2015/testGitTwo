@@ -1,2 +1,3 @@
+include ':javeTest'
 include ':app'
 rootProject.name='testGitTwo'
