@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("wtt","4测试分支2");
         Log.i("wtt","5测试分支2");
         Log.i("wtt","6测试分支2");
+        Log.i("wtt","7测试分支1");
     }
 }
