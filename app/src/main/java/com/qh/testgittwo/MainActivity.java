@@ -16,11 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initView() {
         Log.i("wtt","测试分支1");
-        Log.i("wtt","2测试分支1");
-        Log.i("wtt","3测试分支1");
-        Log.i("wtt","4测试分支2");
-        Log.i("wtt","5测试分支2");
-        Log.i("wtt","6测试分支2");
-        Log.i("wtt","7测试分支1");
+        Log.i("wtt","测试分支addb1");
+
     }
 }
